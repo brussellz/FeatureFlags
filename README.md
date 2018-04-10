@@ -7,7 +7,7 @@
     Client
     - .NET Core
 
-##Environment Variable(s)
+## Environment Variable(s)
 
 ### ASPNETCORE_ENVIRONMENT
 This tells the code to behave differently in some situations depending on the environment being Development, Staging, or Release
